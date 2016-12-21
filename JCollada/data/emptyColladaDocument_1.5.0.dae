@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2008/03/COLLADASchema" version="1.5.0">
+    <asset>
+    <created/>
+    <modified/>
+    </asset>
+    <library_geometries/>
+    <library_visual_scenes/>
+    <scene />
+</COLLADA>
