@@ -5,7 +5,7 @@ COLLADA classes, automatically generated from the schema with JAXB
 # NOTE: This is not supposed to be a COLLADA loader!
 
 This is rather an experiment, showing how the COLLADA classes *can* be
-automatically generated from the COLLADA schema. The `JColloadaGen`
+automatically generated from the COLLADA schema. The `JColladaGen`
 project contains an appropriate Maven POM that allows generating
 the JARs of these classes using the JAXB Maven plugin, with 
 
